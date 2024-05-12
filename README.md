@@ -10,6 +10,7 @@ Hello there! 👋 I'm Pramod, a passionate full-stack web developer with a focus
   - HTML
   - CSS
   - JavaScript
+  - Angular
 
 
 - **Backend:**
