@@ -13,9 +13,7 @@ Hello there! 👋 I'm Pramod, a passionate full-stack web developer with a focus
 
 
 - **Backend:**
-  - Node.js
-  - Express
-  - MongoDB
+  - JAVA
 
 ## What I Do 🚀
 
